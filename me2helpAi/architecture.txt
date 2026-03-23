@@ -1,0 +1,13 @@
+Node.js  ──HTTP JSON──►  app.py (Flask)  ──►  .pkl model  ──►  prediction
+         ◄──────────────
+
+
+tosend/
+├── app.py                  ← Python Flask server (stays at root)
+├── requirements.txt
+├── models/
+├── data/
+├── notebooks/
+└── nodejs/                 ← Node.js client lives here
+    ├── emotion-client.js
+    └── package.json

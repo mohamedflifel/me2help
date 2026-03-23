@@ -1,0 +1,15 @@
+Relationships
+
+User
+ └── Session (one-to-many)
+       └── Message (one-to-many)
+
+User
+ └── MonthlySummary (one-to-many)
+
+
+ Final endpoints:
+
+GET  /api/emotion/health
+POST /api/emotion/predict
+POST /api/emotion/predict/batch
