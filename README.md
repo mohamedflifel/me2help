@@ -3,7 +3,7 @@
 # 🩷 Me2Help
 ### *A space to think. A place to grow.*
 
-> Built from scratch by **Mohamed Flifel** — because sometimes you just need something that actually listens.
+
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%A9%B7-pink)](https://github.com/mohamedflifel)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev)
