@@ -22,13 +22,13 @@ Not just a Q&A machine — but a calm, thoughtful space where someone can open u
 
 Every line of this project was written with intention. The soft UI, the emotion detection, the careful responses — all of it was designed by hand, from the ground up.
 
+</br>
+Not everyone has access to therapy, and not everyone feels comfortable talking to people around them. me2help was built for those in-between moments — when you need to process something, but don't know where to start. It's a fullstack web application powered by a real AI model (Llama 3.3 70B via Groq) that listens, reflects, and gently challenges your thinking rather than just validating everything you say. The goal isn't to replace human connection — it's to give you a space to think out loud, track your emotional patterns over time, and feel a little less alone at 2am.
+
 — *Mohamed Flifel*</br>
 ![me2help home page](https://i.ibb.co/JRThHstQ/landing-page2.png)
 ![me2help register page](https://i.ibb.co/bg87ZZhc/register2.png)
 ![me2help chat page](https://i.ibb.co/4ZrXBv3V/real-chat-example.png)
-
-</br>
-Not everyone has access to therapy, and not everyone feels comfortable talking to people around them. me2help was built for those in-between moments — when you need to process something, but don't know where to start. It's a fullstack web application powered by a real AI model (Llama 3.3 70B via Groq) that listens, reflects, and gently challenges your thinking rather than just validating everything you say. The goal isn't to replace human connection — it's to give you a space to think out loud, track your emotional patterns over time, and feel a little less alone at 2am.
 
 ---
 
