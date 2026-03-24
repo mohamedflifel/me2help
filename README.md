@@ -30,6 +30,7 @@ not everyone feels comfortable talking to people around them. me2help was built 
 ![me2help home page](https://i.ibb.co/JRThHstQ/landing-page2.png)
 ![me2help register page](https://i.ibb.co/bg87ZZhc/register2.png)
 ![me2help chat page](https://i.ibb.co/4ZrXBv3V/real-chat-example.png)
+![me2help chat including history tab](https://i.ibb.co/dskNLy7z/real-chat2.png)
 
 ---
 
