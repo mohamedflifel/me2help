@@ -22,8 +22,9 @@ Not just a Q&A machine — but a calm, thoughtful space where someone can open u
 
 Every line of this project was written with intention. The soft UI, the emotion detection, the careful responses — all of it was designed by hand, from the ground up.
 
-— *Mohamed Flifel*
-![me2help home page](https://i.ibb.co/7JPj9G3v/me2help-home-page.png)
+— *Mohamed Flifel*</br>
+![me2help home page](https://i.ibb.co/JRThHstQ/landing-page2.png)
+
 ---
 
 ## 🏗️ Architecture
