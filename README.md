@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩷 Me2Help
+# <i class="fa-solid fa-heart"></i> Me2Help
 ### *A space to think. A place to grow.*
 
 
