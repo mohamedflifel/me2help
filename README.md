@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❤️ Me2Help
+# 🩹 Me2Help
 ### *A space to think. A place to grow.*
 
 
